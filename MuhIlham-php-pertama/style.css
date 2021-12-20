@@ -1,0 +1,44 @@
+
+*{
+    margin: auto;
+    align-content: center;
+}
+body{
+    margin-top: 100px;
+    background-color: #e7e7e7;
+}
+
+table, tr,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    
+}
+
+.head{
+    width:40px;
+    height:40px;
+    text-align:center;
+    
+}
+.hoving-1:hover{
+    cursor:default;
+    background-color: maroon;
+}
+.hoving-2:hover{
+    cursor: default;
+    background-color: gray;
+}
+.head-color{
+    background-color: red;
+    color: white;
+}
+
+.no{
+    width:40px;
+    text-align:center
+}
+
+.nama{
+    width: 300px;
+    padding: 10px;
+}
